@@ -1,2 +1,2 @@
 # MIE1411H - Design of Work Places
-at the University of Toronto
+University of Toronto 2024 Winter
